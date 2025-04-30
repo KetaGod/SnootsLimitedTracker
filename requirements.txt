@@ -1,0 +1,6 @@
+customtkinter
+Pillow
+tkinter
+matplotlib
+pyinstaller
+ctypes
