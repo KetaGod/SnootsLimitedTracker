@@ -53,7 +53,7 @@ Snoots Limited Tracker is a lightweight, modern tracker designed for collectors 
 ## 📸 Screenshots
 
 ### 🏠 Dashboard  
-![Dashboard](assets/main_windoow.png)
+![Dashboard](assets/main_window.png)
 
 ### 📈 Stats Panel  
 ![Stats Panel](images/limiteds_view.png)
