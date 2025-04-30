@@ -31,7 +31,7 @@ Snoots Limited Tracker is a lightweight, modern tracker designed for collectors 
 
 2. **Download or clone this repository**
    ```cmd
-   git clone https://github.com/yourusername/snoots-limited-tracker.git
+   git clone https://github.com/KetaGod/SnootsLimitedTracker.git
    ```
 
 3. **Unzip `images.zip`**  
